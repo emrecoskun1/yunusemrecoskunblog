@@ -13,6 +13,11 @@
   "author": "Yunus Emre Coşkun <yunusemrecoskun@outlook.com>",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "packageManager": "pnpm@9.14.4",
   "scripts": {
     "astro": "astro",
     "build": "astro build",
