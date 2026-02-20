@@ -1,0 +1,128 @@
+{
+  "title": "Fullstack Developer - Yunus Emre Coşkun",
+  "description": "Fullstack Developer from Turkey. Specialist in .NET, Angular, SQL, Docker and CI/CD.",
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Projects",
+      "href": "/#projects"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "About Me",
+      "href": "/#about-me"
+    }
+  ],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hello, I'm Yunus Emre Coşkun!",
+    "job_title": "<strong>Freelance Fullstack Developer</strong> - Turkey",
+    "description": "I specialize in .NET, Angular, SQL, Docker and CI/CD. I develop scalable web applications.",
+    "cta": "Get in Touch"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": {
+      "jobs_title": ["Freelance", "VakıfBank", "Anssoft"],
+      "jobs_description": [
+        {
+          "title": "Freelance Fullstack Developer",
+          "time": ["Aug 2024", "Present"],
+          "description": "Working independently on various projects. Developing enterprise-level applications using .NET Core, Angular, SQL Server and modern web technologies. Creating custom solutions for client needs.",
+          "list": ["Full Stack Web Development", "API Development & Integration", "Database Design & Optimization", "Cloud Deployment & CI/CD"]
+        },
+        {
+          "title": "Software Developer - VakıfBank",
+          "time": ["Aug 2024", "Dec 2024"],
+          "description": "Worked at VakıfBank, one of Turkey's leading banks, on corporate banking systems. Developed scalable and secure financial applications using .NET Core, Angular, and SQL Server.",
+          "list": ["Corporate Banking Applications", "API Development & Integration", "CI/CD Pipeline Management", "Database Optimization"]
+        },
+        {
+          "title": "Software Developer - Anssoft",
+          "time": ["Oct 2023", "Aug 2024"],
+          "description": "Worked as a Full Stack Developer at Anssoft. Developed enterprise web applications using .NET, Angular, and SQL technologies. Gained experience in project management, code quality, and team collaboration.",
+          "list": ["Full Stack Development", ".NET & Angular Applications", "Agile Methodology", "Code Review & Quality Assurance"]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Blogium",
+        "description": "Medium alternative blog platform. Built with TypeScript, modern and user-friendly interface.",
+        "image": "/src/images/projects/blogium.jpg",
+        "techs": ["typescript", "angular", "dotnet"],
+        "code": "https://github.com/emrecoskun1/blogium",
+        "preview": "https://blogium-w54e.onrender.com/"
+      },
+      {
+        "title": "Med Antalya",
+        "description": "Health tourism platform. Patient and doctor matching service with modern and user-friendly interface.",
+        "image": "/src/images/projects/medantalya.png",
+        "techs": ["html", "css", "javascript"],
+        "code": "https://github.com/emrecoskun1",
+        "preview": "https://medantalya.com/"
+      },
+      {
+        "title": "NeoVakıf - Banking System",
+        "description": "Modern banking application. Includes user operations, customer management and transaction features.",
+        "image": "/src/images/projects/neovakif.jpg",
+        "techs": ["typescript", "angular", "sqlserver"],
+        "code": "https://github.com/emrecoskun1",
+        "preview": "#"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contributions",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Open Source Contributions",
+        "title": "Open Source Projects",
+        "description": "Contributed to various open source projects. Actively participated in TypeScript, Go and .NET ecosystems.",
+        "techs": ["typescript", "javascript", "react"],
+        "repo": "https://github.com/emrecoskun1",
+        "repo_label": "My GitHub Profile",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/ana-cards.jpg",
+        "alt": "Community Contributions",
+        "title": "Community Work",
+        "description": "Actively participating in software communities. Writing blog posts and preparing technical documentation.",
+        "techs": ["html", "css", "javascript"],
+        "repo": "https://yunusemrecoskun.xyz/",
+        "repo_label": "Blog",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Freelance Fullstack Developer creating enterprise web applications",
+    "description": "Working independently on various projects. Previously held Full Stack Developer positions at VakıfBank and Anssoft. Expert in .NET Core, Angular, SQL Server, Docker, and CI/CD technologies. I develop secure, performant, and scalable web applications at the enterprise level. I value clean code principles, SOLID principles, and best practices. Proficient in Agile methodology and team collaboration."
+  },
+  "contact": {
+    "title": "Ready to make your dreams come true?",
+    "subtitle": "I can boost your project or be part of your team"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Designed with",
+      "designed_by": "by"
+    },
+    "developed": {
+      "developed_with": "Made with",
+      "developed_by": "by"
+    }
+  }
+}

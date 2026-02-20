@@ -1,0 +1,128 @@
+{
+  "title": "Web Frontend Developer - Yunus Emre Coşkun",
+  "description": "Türkiye'den Fullstack Developer. .NET, Angular, SQL, Docker ve CI/CD uzmanı.",
+  "navbar": [
+    {
+      "label": "Ana Sayfa",
+      "href": "/"
+    },
+    {
+      "label": "Projeler",
+      "href": "/#projeler"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Hakkımda",
+      "href": "/#hakkimda"
+    }
+  ],
+  "hero": {
+    "job_availability": "İş için müsait!",
+    "title": "Merhaba, Ben Yunus Emre Coşkun!",
+    "job_title": "<strong>Freelance Fullstack Developer</strong> - Türkiye",
+    "description": ".NET, Angular, SQL, Docker ve CI/CD konularında uzmanım. Ölçeklenebilir web uygulamaları geliştiriyorum.",
+    "cta": "İletişime Geç"
+  },
+  "experience": {
+    "title": "İş Deneyimi",
+    "jobs": {
+      "jobs_title": ["Freelance", "VakıfBank", "Anssoft"],
+      "jobs_description": [
+        {
+          "title": "Freelance Fullstack Developer",
+          "time": ["Ağu 2024", "Şu An"],
+          "description": "Bağımsız olarak çeşitli projelerde çalışıyorum. .NET Core, Angular, SQL Server ve modern web teknolojileri kullanarak kurumsal düzeyde uygulamalar geliştiriyorum. Müşteri ihtiyaçlarına özel çözümler üretiyorum.",
+          "list": ["Full Stack Web Geliştirme", "API Development & Integration", "Veritabanı Tasarımı & Optimizasyonu", "Cloud Deployment & CI/CD"]
+        },
+        {
+          "title": "Software Developer - VakıfBank",
+          "time": ["Ağu 2024", "Ara 2024"],
+          "description": "Türkiye'nin önde gelen bankalarından VakıfBank'ta kurumsal bankacılık sistemleri üzerinde çalıştım. .NET Core, Angular ve SQL Server kullanarak ölçeklenebilir ve güvenli finansal uygulamalar geliştirdim.",
+          "list": ["Kurumsal Bankacılık Uygulamaları", "API Development & Integration", "CI/CD Pipeline Yönetimi", "Veritabanı Optimizasyonu"]
+        },
+        {
+          "title": "Software Developer - Anssoft",
+          "time": ["Eki 2023", "Ağu 2024"],
+          "description": "Anssoft'ta Full Stack Developer olarak çalıştım. .NET, Angular, ve SQL teknolojileri ile kurumsal web uygulamaları geliştirdim. Proje yönetimi, kod kalitesi ve ekip iş birliği konularında deneyim kazandım.",
+          "list": ["Full Stack Development", ".NET & Angular Uygulamaları", "Agile Metodolojisi", "Code Review & Quality Assurance"]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projeler",
+    "projects": [
+      {
+        "title": "Blogium",
+        "description": "Medium alternatifi bir blog platformu. TypeScript ile geliştirilmiş, modern ve kullanıcı dostu bir arayüze sahip.",
+        "image": "/src/images/projects/blogium.jpg",
+        "techs": ["typescript", "angular", "dotnet"],
+        "code": "https://github.com/emrecoskun1/blogium",
+        "preview": "https://blogium-w54e.onrender.com/"
+      },
+      {
+        "title": "Med Antalya",
+        "description": "Sağlık turizmi platformu. Modern ve kullanıcı dostu arayüzü ile hasta ve doktor buluşturma hizmeti sunuyor.",
+        "image": "/src/images/projects/medantalya.png",
+        "techs": ["html", "css", "javascript"],
+        "code": "https://github.com/emrecoskun1",
+        "preview": "https://medantalya.com/"
+      },
+      {
+        "title": "NeoVakıf - Bankacılık Sistemi",
+        "description": "Modern bankacılık uygulaması. Kullanıcı işlemleri, müşteri yönetimi ve transaction özellikleri içerir.",
+        "image": "/src/images/projects/neovakif.jpg",
+        "techs": ["typescript", "angular", "sqlserver"],
+        "code": "https://github.com/emrecoskun1",
+        "preview": "#"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Katkılarım",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Open Source Katkıları",
+        "title": "Open Source Projeler",
+        "description": "Çeşitli açık kaynak projelere katkıda bulundum. TypeScript, Go ve .NET ekosistemlerinde aktif olarak yer aldım.",
+        "techs": ["typescript", "javascript", "react"],
+        "repo": "https://github.com/emrecoskun1",
+        "repo_label": "GitHub Profilim",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/ana-cards.jpg",
+        "alt": "Topluluk Katkıları",
+        "title": "Topluluk Çalışmaları",
+        "description": "Yazılım topluluklarında aktif olarak yer alıyorum. Blog yazıları ve teknik dokümantasyon hazırlıyorum.",
+        "techs": ["html", "css", "javascript"],
+        "repo": "https://yunusemrecoskun.xyz/",
+        "repo_label": "Blog",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Hakkımda",
+    "subtitle": "Freelance Fullstack Developer olarak kurumsal web uygulamaları geliştiriyorum",
+    "description": "Freelance olarak çeşitli projelerde çalışıyorum. Daha önce VakıfBank'ta ve Anssoft'ta Full Stack Developer pozisyonunda görev aldım. .NET Core, Angular, SQL Server, Docker ve CI/CD teknolojileri konusunda uzmanım. Kurumsal düzeyde güvenli, performanslı ve ölçeklenebilir web uygulamaları geliştiriyorum. Clean code prensipleri, SOLID prensiplerine ve best practice'lere önem veriyorum. Agile metodolojisi ile çalışmaya ve ekip iş birliğine yatkınım."
+  },
+  "contact": {
+    "title": "Fikirlerinizi hayata geçirmeye hazır mısınız?",
+    "subtitle": "Projenizi geliştirebilir veya ekibinizin bir parçası olabilirim"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Tasarım",
+      "designed_by": "tarafından"
+    },
+    "developed": {
+      "developed_with": "Geliştirildi",
+      "developed_by": "tarafından"
+    }
+  }
+}
